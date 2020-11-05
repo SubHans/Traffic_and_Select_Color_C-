@@ -1,0 +1,20 @@
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\bin\Debug\PickColor.exe.config
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\bin\Debug\PickColor.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\bin\Debug\PickColor.pdb
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.csprojAssemblyReference.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.Form1.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.Properties.Resources.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.csproj.GenerateResource.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.csproj.CoreCompileInputs.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.pdb
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\bin\Debug\PickColor.exe.config
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\bin\Debug\PickColor.exe
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\bin\Debug\PickColor.pdb
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.csprojAssemblyReference.cache
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.Form1.resources
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.Properties.Resources.resources
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.csproj.GenerateResource.cache
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.csproj.CoreCompileInputs.cache
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.exe
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\pickColorC#\PickColor\PickColor\obj\Debug\PickColor.pdb

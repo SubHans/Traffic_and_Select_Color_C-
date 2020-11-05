@@ -1,0 +1,10 @@
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\bin\Debug\PickColorServer.exe.config
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\bin\Debug\PickColorServer.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\bin\Debug\PickColorServer.pdb
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.csprojAssemblyReference.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.Form1.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.Properties.Resources.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.csproj.GenerateResource.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.csproj.CoreCompileInputs.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\pickColorC#\PickColorServer\PickColorServer\obj\Debug\PickColorServer.pdb

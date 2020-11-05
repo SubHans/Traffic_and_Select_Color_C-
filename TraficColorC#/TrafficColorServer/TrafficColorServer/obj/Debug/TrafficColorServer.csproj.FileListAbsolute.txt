@@ -1,0 +1,20 @@
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\bin\Debug\TrafficColorServer.exe.config
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\bin\Debug\TrafficColorServer.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\bin\Debug\TrafficColorServer.pdb
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.csprojAssemblyReference.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.Form1.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.Properties.Resources.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.csproj.GenerateResource.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.csproj.CoreCompileInputs.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.pdb
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\bin\Debug\TrafficColorServer.exe.config
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\bin\Debug\TrafficColorServer.exe
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\bin\Debug\TrafficColorServer.pdb
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.csprojAssemblyReference.cache
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.Form1.resources
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.Properties.Resources.resources
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.csproj.GenerateResource.cache
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.csproj.CoreCompileInputs.cache
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.exe
+C:\Users\De_Hansingingslasher\OneDrive\Documents\C#\TraficColorC#\TrafficColorServer\TrafficColorServer\obj\Debug\TrafficColorServer.pdb

@@ -1,0 +1,10 @@
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\bin\Debug\TrafficColorClient.exe.config
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\bin\Debug\TrafficColorClient.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\bin\Debug\TrafficColorClient.pdb
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.Properties.Resources.resources
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.csproj.GenerateResource.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.csproj.CoreCompileInputs.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.exe
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.pdb
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.csprojAssemblyReference.cache
+E:\Materi\Semester 5\Pemrograman Jaringan\uts\TraficColorC#\TrafficColorClient\TrafficColorClient\obj\Debug\TrafficColorClient.Form1.resources
